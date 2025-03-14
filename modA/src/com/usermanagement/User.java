@@ -1,6 +1,6 @@
 package com.usermanagement;
 
-public class User {
+public class  User {
     private String name;
     private int age;
 
