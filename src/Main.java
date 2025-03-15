@@ -5,10 +5,10 @@ import com.itemmanagement.*;
 
 public class Main {
     public static void main(String[] args) {
-        User user = new User("Abubaker", 25);
+        User1 user1 = new User1("Abubaker", 25);
         Item item = new Item("Television");
 
-        System.out.println(user.getUserInfo());
+        System.out.println(user1.getUserInfo());
         System.out.println(item.getItemInfo());
     }
 }
