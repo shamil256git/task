@@ -1,2 +1,2 @@
 module  usermanagement{
-  exports com.usermanagement;}
+  exports com.user1management;}

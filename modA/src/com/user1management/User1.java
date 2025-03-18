@@ -1,4 +1,4 @@
-package com.usermanagement;
+package com.user1management;
 
 public class  User1 {
     private String name;
@@ -9,7 +9,7 @@ public class  User1 {
         this.age = age;
     }
 
-    
+
     public String getUser1Info() {
         return "User1: " + name + ", Age: " + age;
     }
